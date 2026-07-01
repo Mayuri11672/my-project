@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+      "email": "admin@explorevibe.com"
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "title": "Bali Beach Paradise",
+      "price": 499,
+      "duration": "5 Days",
+      "location": "Bali, Indonesia",
+      "description": "Relax on pristine beaches, explore temples, and enjoy vibrant nightlife.",
+      "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=400&h=220&fit=crop&crop=center&auto=format",
+      "category": "Beach",
+      "rating": 4.8,
+      "reviews": 120,
+      "highlights": "Private beach access, Sunset dinner cruise, Traditional Balinese massage, Temple tours",
+      "itinerary": "Day 1: Arrival & beach welcome\nDay 2: Ubud Monkey Forest & rice terraces\nDay 3: Snorkeling at Blue Lagoon\nDay 4: Tanah Lot temple & cultural show\nDay 5: Departure",
+      "images": [
+        "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=600&h=400&fit=crop&crop=center&auto=format",
+        "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=600&h=400&fit=crop&crop=center&auto=format"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Nepal Mountain Trek",
+      "price": 699,
+      "duration": "7 Days",
+      "location": "Nepal",
+      "description": "Trek through the Himalayas with expert guides and breathtaking views.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=220&fit=crop&crop=center&auto=format",
+      "category": "Mountain",
+      "rating": 4.9,
+      "reviews": 85,
+      "highlights": "Everest Base Camp trek, Sherpa villages, Mountain panoramas, Cultural immersion",
+      "itinerary": "Day 1: Kathmandu arrival\nDay 2: Fly to Lukla & trek to Phakding\nDay 3: Namche Bazaar\nDay 4: Acclimatization day\nDay 5: Tengboche Monastery\nDay 6: Return to Lukla\nDay 7: Fly back to Kathmandu",
+      "images": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop&crop=center&auto=format",
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&h=400&fit=crop&crop=center&auto=format"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Greek Island Hopping",
+      "price": 849,
+      "duration": "6 Days",
+      "location": "Greece",
+      "description": "Sail through the Aegean, visit Santorini, Mykonos, and more.",
+      "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=400&h=220&fit=crop&crop=center&auto=format",
+      "category": "Beach",
+      "rating": 4.7,
+      "reviews": 94,
+      "highlights": "Santorini caldera views, Mykonos nightlife, Ancient ruins, Greek cuisine",
+      "itinerary": "Day 1: Athens arrival\nDay 2: Ferry to Mykonos\nDay 3: Mykonos exploration\nDay 4: Santorini sunset\nDay 5: Santorini winery tour\nDay 6: Return to Athens",
+      "images": [
+        "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=600&h=400&fit=crop&crop=center&auto=format",
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop&crop=center&auto=format"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Tokyo City Escape",
+      "price": 599,
+      "duration": "4 Days",
+      "location": "Tokyo, Japan",
+      "description": "Experience the blend of tradition and futuristic city life in Tokyo.",
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=400&h=220&fit=crop&crop=center&auto=format",
+      "category": "City",
+      "rating": 4.6,
+      "reviews": 73,
+      "highlights": "Shibuya crossing, Senso-ji temple, Tsukiji market, Anime & gaming",
+      "itinerary": "Day 1: Arrival & Shibuya\nDay 2: Asakusa & Ueno Park\nDay 3: Akihabara & Ginza\nDay 4: Disneyland or Mount Fuji day trip",
+      "images": [
+        "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=600&h=400&fit=crop&crop=center&auto=format",
+        "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&h=400&fit=crop&crop=center&auto=format"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Amazon Rainforest Adventure",
+      "price": 1099,
+      "duration": "8 Days",
+      "location": "Brazil",
+      "description": "Explore the world's largest rainforest with native guides and wildlife encounters.",
+      "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=400&h=220&fit=crop&crop=center&auto=format",
+      "category": "Adventure",
+      "rating": 4.9,
+      "reviews": 45,
+      "highlights": "Jungle treks, River cruises, Wildlife spotting, Indigenous communities",
+      "itinerary": "Day 1: Manaus arrival\nDay 2: Boat to jungle lodge\nDay 3: Canopy walk & night safari\nDay 4: Piranha fishing\nDay 5: Visit native village\nDay 6: Jungle survival skills\nDay 7: Return to Manaus\nDay 8: Departure",
+      "images": [
+        "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=600&h=400&fit=crop&crop=center&auto=format",
+        "https://images.unsplash.com/photo-1516298773066-c48f8e9bd92b?w=600&h=400&fit=crop&crop=center&auto=format"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Rome Cultural Heritage",
+      "price": 749,
+      "duration": "5 Days",
+      "location": "Rome, Italy",
+      "description": "Walk through history, visit the Colosseum, Vatican, and enjoy Italian cuisine.",
+      "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=400&h=220&fit=crop&crop=center&auto=format",
+      "category": "Cultural",
+      "rating": 4.8,
+      "reviews": 112,
+      "highlights": "Colosseum, Vatican Museums, Roman Forum, Pasta-making class",
+      "itinerary": "Day 1: Arrival & Colosseum\nDay 2: Vatican & St. Peter's\nDay 3: Roman Forum & Palatine Hill\nDay 4: Trastevere & cooking class\nDay 5: Departure",
+      "images": [
+        "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&h=400&fit=crop&crop=center&auto=format",
+        "https://images.unsplash.com/photo-1525874684015-58379d421a52?w=600&h=400&fit=crop&crop=center&auto=format"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Safari in Kenya",
+      "price": 1299,
+      "duration": "6 Days",
+      "location": "Kenya",
+      "description": "Witness the Big Five in their natural habitat with luxury safari lodges.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=400&h=220&fit=crop&crop=center&auto=format",
+      "category": "Adventure",
+      "rating": 4.9,
+      "reviews": 67,
+      "highlights": "Masai Mara game drives, Big Five sightings, Balloon safari, Maasai culture",
+      "itinerary": "Day 1: Nairobi arrival\nDay 2: Lake Nakuru\nDay 3: Masai Mara\nDay 4: Full day game drive\nDay 5: Balloon safari & visit Maasai village\nDay 6: Return to Nairobi",
+      "images": [
+        "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=600&h=400&fit=crop&crop=center&auto=format",
+        "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?w=600&h=400&fit=crop&crop=center&auto=format"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Iceland Northern Lights",
+      "price": 899,
+      "duration": "4 Days",
+      "location": "Iceland",
+      "description": "Chase the aurora borealis, visit glaciers, and relax in geothermal hot springs.",
+      "image": "https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=400&h=220&fit=crop&crop=center&auto=format",
+      "category": "Adventure",
+      "rating": 4.7,
+      "reviews": 88,
+      "highlights": "Northern Lights viewing, Golden Circle, Blue Lagoon, Glacier hiking",
+      "itinerary": "Day 1: Reykjavik arrival & Northern Lights tour\nDay 2: Golden Circle (Thingvellir, Gullfoss, Geysir)\nDay 3: Glacier hike & ice cave\nDay 4: Blue Lagoon & departure",
+      "images": [
+        "https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=600&h=400&fit=crop&crop=center&auto=format",
+        "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&h=400&fit=crop&crop=center&auto=format"
+      ]
+    }
+  ],
+  "wishlist": [],
+  "bookings": [],
+  "nextId": {
+    "package": 100,
+    "booking": 1,
+    "user": 2
+  }
+}
